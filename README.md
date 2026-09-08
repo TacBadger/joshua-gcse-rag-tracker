@@ -1,14 +1,19 @@
-# GCSE RAG Tracker v2.2 — Full syllabus
+# Joshua GCSE RAG Tracker v2.3
 
-- Maths: 60 individual checklist items
-- Computer Science: 58 individual checklist items
-- Geography: 81 individual checklist items
-- RE: 43 individual checklist items
-- Biology: 66 individual checklist items
-- Chemistry: 66 individual checklist items
-- Physics: 63 individual checklist items
-- English Language: 38 individual checklist items
-- English Literature: 44 individual checklist items
+GitHub Pages release.
 
-The individual requirements are extracted from Joshua_GCSE_Syllabus_Requirements.docx.
-RE Component 2 still shows all possible themes pending school confirmation. Geography case studies and exact fieldwork details remain pending.
+## New in v2.3
+- Collapsible syllabus sections
+- Section-level weighted progress percentage
+- Green/Blue secure count
+- Red/Amber count on each section
+- Weak sections open by default
+- Open/collapsed state remembered on the device
+- Expand all / Collapse all controls
+- `.nojekyll` included for GitHub Pages
+
+## Deploy
+Replace the files in the repository root with these files and commit to `main`.
+GitHub Pages should republish automatically.
+
+Existing RAG data remains stored in the browser under the same score key used by v2.x.

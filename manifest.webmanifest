@@ -1,0 +1,8 @@
+{
+  "name": "GCSE RAG Tracker",
+  "short_name": "GCSE RAG",
+  "start_url": "./#Maths",
+  "display": "standalone",
+  "background_color": "#f4f7fa",
+  "theme_color": "#17324d"
+}
